@@ -13,15 +13,6 @@
 
 ---
 
-## 🗂 Files
-| File | Description |
-|-------|-------------|
-| `companion.c` | Source code |
-| `companion.exe` | Compiled executable |
-| `companion.log` | Activity and message log |
-
----
-
 ## ⚙️ How to Run
 Open PowerShell, navigate to the project folder:
 ```bash
